@@ -34,9 +34,11 @@ L’idée : proposer une interface simple, jolie et adaptée aux petits écrans,
 
 Les collectionneuses utilisent généralement des applications issues d’autres domaines — comme la gestion de mangas, de livres ou d’inventaires personnels — qui ne répondent pas totalement à leurs besoins.
 
-| Application | Points forts | Points faibles |
-|-------------|--------------|----------------|
-| **MangaYo!** | Suivi clair et communautaire, interface familière | ..... |
+| Application | Domaine | Points forts | Points faibles |
+|-------------|--------------|--------------|----------------|
+| **MangaYo!** | Suivi de mangas | Suivi clair et communautaire, interface familière | ..... |
+| **Goodreads** | Suivi de livres | Interface intuitive, communauté active | Pas de visuel produit, expérience peu ludique |
+| **Notion (templates)** | Organisation libre | Très personnalisable, flexible | Non optimisé pour mobile, interface complexe pour usage rapide |
 
 
 > **Conclusion** : il n’existe pas d’application simple, esthétique et pensée pour les collectionneuses de blind-box.
