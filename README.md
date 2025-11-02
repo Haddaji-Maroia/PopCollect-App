@@ -36,15 +36,16 @@ Les collectionneuses utilisent généralement des applications issues d’autres
 
 | Application | Domaine | Points forts | Points faibles |
 |-------------|--------------|--------------|----------------|
-| **MangaYo!** | Suivi de mangas | Suivi clair et communautaire, interface familière | ..... |
+| **MangaYo!** | Suivi de mangas | Suivi clair et communautaire, interface familière | Peu de personnalisation pour les collections physiques, manque de visuels détaillés |
 | **Goodreads** | Suivi de livres | Interface intuitive, communauté active | Pas de visuel produit, expérience peu ludique |
 | **Notion (templates)** | Organisation libre | Très personnalisable, flexible | Non optimisé pour mobile, interface complexe pour usage rapide |
+| **Funko App** | Suivi de figurines Funko | Catalogue officiel, suivi facile de la collection | Interface peu esthétique, manque de fonctionnalités ludiques et sociales, rigidité dans l’ajout d’objets hors catalogue |
 
 
 > **Conclusion** : il n’existe pas d’application simple, esthétique et pensée pour les collectionneuses de blind-box.
 PopCollect se positionne donc comme une solution visuelle, intuitive et ludique, centrée sur le plaisir de collectionner et la beauté des figurines.
 
-*2–3 captures d’écran des apps existantes*
+*2–3 captures d’écran des apps existantes (MangaYo, goodreads et funko App)*
 
 ---
 
