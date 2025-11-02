@@ -105,10 +105,10 @@ PopCollect se positionne donc comme une solution visuelle, intuitive et ludique,
 
 | Fonctionnalité | Statut | Preuve (GIF / screenshot) |
 |----------------|--------|---------------------------|
-| Auth (Firebase) | À venir | `/gifs/auth.gif` |
-| CRUD figurine | À venir | `/gifs/crud_fig.gif` |
+| Auth (Firebase) | À venir | `` |
+| CRUD figurine | À venir | `` |
 | Vue série / % complétion | À venir |  |
-| Photo via caméra | À venir | `/gifs/photo.gif` |
+| Photo via caméra | À venir | `` |
 | Badges | À venir |  |
 | Offline / Sync | À venir |  |
 
