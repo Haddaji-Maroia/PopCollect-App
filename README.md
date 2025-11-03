@@ -78,7 +78,6 @@ PopCollect se positionne donc comme une solution visuelle, intuitive et ludique,
 - **En tant que** utilisatrice connectée, **je veux** synchroniser ma collection dans le cloud **afin de** ne rien perdre en cas de changement d’appareil.  
 - **En tant que** collectionneuse, **je veux** obtenir un badge quand j’ai complété une série **afin de** sentir une récompense et rester motivée.
 
-> Pour chaque user story, les maquettes correspondantes....  
 
 ---
 
@@ -96,7 +95,7 @@ PopCollect se positionne donc comme une solution visuelle, intuitive et ludique,
 
 ## 7. Maquettes & moodboard
 
-- Moodboard : `/maquettes/moodboard.png` (palette pastel, icônes kawaii).  
+- Moodboard : `/maquettes/moodboard.png`.  
 - Maquettes écrans : `/maquettes/home.png`, `/maquettes/collection.png`, `/maquettes/fiche.png`, `/maquettes/onboarding.png`.  
 
 ---
@@ -112,7 +111,6 @@ PopCollect se positionne donc comme une solution visuelle, intuitive et ludique,
 | Badges | À venir |  |
 | Offline / Sync | À venir |  |
 
-> **Instruction** : à chaque fonctionnalité terminée, ajoute un GIF dans `/gifs/` (ex : ShareX / GIF Brewery) et insère le GIF ici (ex. `![CRUD GIF](/gifs/crud_fig.gif)`).
 
 ---
 
